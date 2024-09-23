@@ -1,0 +1,31 @@
+{
+    "id": "7B3BADF7",
+    "path": "~/Github/Introduction to Machine Learning/index.qmd",
+    "project_path": "index.qmd",
+    "type": "quarto_markdown",
+    "hash": "1189841779",
+    "contents": "",
+    "dirty": false,
+    "created": 1727085960060.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "6413:3360",
+        "cursorPosition": "98,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1727086434,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1727086434772,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nIntroduction to Machine Learning\n",
+    "section": "",
+    "text": "Artificial intelligence (AI) is a technology that equips machines with the ability to simulate human behavior, specifically cognitive processes.\nMachine learning (ML) is a branch of AI that focuses on using data and algorithms to learn in the same way that humans do, gradually improving its accuracy. Machine learning algorithms develop a mathematical model that helps make predictions or decisions based on sample historical data, or training data, without needing explicit programming. By integrating statistics and computer science, machine learning facilitates the creation of predictive models.\n\nML models prioritize prediction accuracy and are very good at handling complex data, while classical statistical models focus on understanding relationships and making inferences. Nevertheless, both have their place in data science, depending on the problem and context.\nML offers numerous benefits that increase agricultural efficiencies, improve crop yield, and reduce food cost of production. ML can identify patterns and trends in massive data that humans may miss entirely.\nThis analysis requires little human intervention: simply feed in the dataset of interest and allow the ML system to assemble and refine its algorithms which will continuously improve with more data input over time.\nThe drawback of ML, it requires large training datasets that are both accurate and unbiased. Gathering enough data and having a system that can handle it may also be a drain on resources. ML can also be error-prone, depending on the input. With too small a sample size, the system may generate a perfectly logical algorithm that is completely incorrect or misleading. ML is a powerful tool that transforms industries, however, it’s crucial to understand its potential and limitations.\n\n\n\nMachine learning utilizes data to identify patterns within a dataset.\nIt learns from past data and improves autonomously over time.\nAs a data-driven technology, machine learning shares similarities with data mining, both of which involve working with large volumes of data.\n\n\n\n\n\n\nInstance: A single row (observation) of data is called an instance\nFeature: A single column (independent variable, attribute) is called a feature. The predictor is called Target\nData Type: Data can be quantitative (e.g., regression) or qualitative (e.g., classification)\nTraining Dataset: A dataset to feed into our ML to train the model\nTesting Dataset: A new dataset to validate the accuracy of the model\nData: Machine learning requires data to train the models. This data could be anything from images and text to numerical values and more.\nAlgorithms: These are the methods or techniques used to analyze the data. Different algorithms are used depending on the task, such as classification, regression, clustering, etc.\nTraining: This is the process where the algorithm learns from the data. During training, the algorithm adjusts its parameters to minimize errors and improve accuracy.\nPrediction/Inference: After training, the model can make predictions or decisions based on new, unseen data.\nEvaluation: The performance of the model is assessed using metrics like accuracy, precision, recall, etc., to ensure it meets the desired goals."
+  },
+  {
+    "objectID": "index.html#features-of-machine-learning",
+    "href": "index.html#features-of-machine-learning",
+    "title": "\nIntroduction to Machine Learning\n",
+    "section": "",
+    "text": "Machine learning utilizes data to identify patterns within a dataset.\nIt learns from past data and improves autonomously over time.\nAs a data-driven technology, machine learning shares similarities with data mining, both of which involve working with large volumes of data."
+  },
+  {
+    "objectID": "index.html#ml-the-jargon",
+    "href": "index.html#ml-the-jargon",
+    "title": "\nIntroduction to Machine Learning\n",
+    "section": "",
+    "text": "Instance: A single row (observation) of data is called an instance\nFeature: A single column (independent variable, attribute) is called a feature. The predictor is called Target\nData Type: Data can be quantitative (e.g., regression) or qualitative (e.g., classification)\nTraining Dataset: A dataset to feed into our ML to train the model\nTesting Dataset: A new dataset to validate the accuracy of the model\nData: Machine learning requires data to train the models. This data could be anything from images and text to numerical values and more.\nAlgorithms: These are the methods or techniques used to analyze the data. Different algorithms are used depending on the task, such as classification, regression, clustering, etc.\nTraining: This is the process where the algorithm learns from the data. During training, the algorithm adjusts its parameters to minimize errors and improve accuracy.\nPrediction/Inference: After training, the model can make predictions or decisions based on new, unseen data.\nEvaluation: The performance of the model is assessed using metrics like accuracy, precision, recall, etc., to ensure it meets the desired goals."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
